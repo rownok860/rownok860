@@ -4,8 +4,7 @@
 
 ### About Me :
 <p>
-I'm Rownok Ahmed, a web developer.My expertise in web development.
-</p>
+I'm Rownok Ahmed.I am a programmer with a passion for coding and developing new solutions.I am constantly striving to improve my knowledge and stay up-to-date with the latest advancements in the industry. I am dedicated to delivering high-quality work and exceeding client expectations.</p>
 
 
 ### :fire: My Stats :
