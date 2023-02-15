@@ -10,6 +10,6 @@ I'm Rownok Ahmed.I am a programmer with a passion for coding and developing new 
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rownok860)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rownok860)](https://github.com/rownok860)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rownok860)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rownok860)
 ![Rownok's GitHub stats](https://github-readme-stats.vercel.app/api?username=rownok860&show_icons=true)
